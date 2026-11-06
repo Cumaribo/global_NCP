@@ -11,7 +11,7 @@ format:
 
 **Institution:** ^1^ World Wildlife Fund (WWF), Global Science — ^2^ World Wildlife Fund (WWF) Colombia, Science and Knowledge Management
 
-**Corresponding author:** jeronimo.rodriguez@wwf.org
+**Corresponding author:** jeronimo.rescobar@gmail.com
 
 **Presentation format:** Oral
 

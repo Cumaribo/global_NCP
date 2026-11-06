@@ -11,7 +11,7 @@ format:
 
 **Institución:** ^1^ World Wildlife Fund (WWF), Global Science — ^2^ World Wildlife Fund (WWF) Colombia, Ciencia y Gestión del Conocimiento
 
-**Correo del autor principal:** jeronimo.rodriguez@wwf.org
+**Correo del autor principal:** jeronimo.rescobar@gmail.com
 
 **Modalidad de presentación:** Ponencia (oral)
 
